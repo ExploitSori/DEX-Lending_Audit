@@ -1,7 +1,7 @@
 # Upside Academy DEX Audit
 
 ## Audit repositories  
-24.09.08. 이전 commit.
+24.09.08. 이전 commit.  
 https://github.com/ooMia/Upside_DEX_solidity mia  
 https://github.com/hakid29/Dex_solidity hakid  
 https://github.com/Entropy1110/Dex_solidity - entropy  
