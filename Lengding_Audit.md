@@ -2,16 +2,16 @@
 
 ## Audit repositories  
 24.09.08. 이전 commit.  
-https://github.com/hakid29/Lending_solidity - hakid
-https://github.com/Entropy1110/Lending_solidity - entropy
-https://github.com/dokpark21/DEX_Lending_solidity - kyrie
-https://github.com/pluto1011/-Lending-DEX-_solidity - icarus
-https://github.com/rivercastleone/Lending_solidity - castle
-https://github.com/je1att0/Lending_solidity - jacqueline
-https://github.com/Null0RM/Lending_solidity - nullorm
-https://github.com/55hnnn/Lending_solidity - kenny
-https://github.com/0xGh-st/Lending_solidity - ghost
-https://github.com/GODMuang/Lending_solidity - muang
+https://github.com/hakid29/Lending_solidity - hakid  
+https://github.com/Entropy1110/Lending_solidity - entropy  
+https://github.com/dokpark21/DEX_Lending_solidity - kyrie  
+https://github.com/pluto1011/-Lending-DEX-_solidity - icarus  
+https://github.com/rivercastleone/Lending_solidity - castle  
+https://github.com/je1att0/Lending_solidity - jacqueline  
+https://github.com/Null0RM/Lending_solidity - nullorm  
+https://github.com/55hnnn/Lending_solidity - kenny  
+https://github.com/0xGh-st/Lending_solidity - ghost  
+https://github.com/GODMuang/Lending_solidity - muang  
 
 ## Icarus
 ### Case 1
